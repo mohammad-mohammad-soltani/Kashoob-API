@@ -7,8 +7,8 @@ Any commercial or unattributed use of this API is against Islamic law.
 # images
 
 <div style="display : flex;gap : 30px;" >
-<img style="width : 50% ; border : 2px white solid ; border-radius : 15px"  src="search.png">
-<img style="width : 50% ; border : 2px white solid ; border-radius : 15px"  src="image.png"></div>
+<img style="width : 45% ; border : 2px white solid ; border-radius : 15px"  src="search.png">
+<img style="width : 45% ; border : 2px white solid ; border-radius : 15px"  src="image.png"></div>
 <br>
 
 
